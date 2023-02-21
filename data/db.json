@@ -1,0 +1,24 @@
+{
+    "blogs": [
+        { 
+         "title":"My new website",
+         "body":"lorem ipsummm",
+         "author": "mario", 
+         "id":1
+        },
+        {
+         "title":"My openning party",
+         "body":"lorem ipsummm",
+         "author": "dali", 
+         "id":2
+        },
+        {
+            "title":"My openning party",
+            "body":"lorem ipsummm",
+            "author": "dali", 
+            "id":3
+         }
+           
+        
+    ]
+}
